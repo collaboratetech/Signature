@@ -1,0 +1,7 @@
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="https://hillonline.sharepoint.com/SiteAssets/sketch/sketch.js"></script>
+<script type="text/javascript" src="https://hillonline.sharepoint.com/SiteAssets/sketch/PAITSignature.js"></script>
+<link rel="stylesheet" href="https://hillonline.sharepoint.com/SiteAssets/sketch/PAITSignature.css">
+<link rel="stylesheet" href="//appsforoffice.microsoft.com/fabric/1.0/fabric.min.css">
+<link rel="stylesheet" href="//appsforoffice.microsoft.com/fabric/1.0/fabric.components.min.css">
+ 
